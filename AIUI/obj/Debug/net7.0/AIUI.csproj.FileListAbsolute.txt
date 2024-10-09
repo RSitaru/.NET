@@ -1,4 +1,0 @@
-C:\Cod\.NET\AIUI\obj\Debug\net7.0\AIUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Cod\.NET\AIUI\obj\Debug\net7.0\AIUI.AssemblyInfoInputs.cache
-C:\Cod\.NET\AIUI\obj\Debug\net7.0\AIUI.AssemblyInfo.cs
-C:\Cod\.NET\AIUI\obj\Debug\net7.0\AIUI.csproj.CoreCompileInputs.cache
